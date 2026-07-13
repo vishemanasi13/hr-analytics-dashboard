@@ -3,7 +3,6 @@
 ## Project Overview
 
 This dashboard helps understand employee attrition by analyzing different factors such as department, age group, salary, education, gender, job role, and years at the company.
-
 The goal is to identify patterns that can help organizations improve employee retention and make better HR decisions.
 ---
 
