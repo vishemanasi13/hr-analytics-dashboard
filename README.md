@@ -1,2 +1,2 @@
 # hr-analytics-dashboard
-HR Analytics Dashboard using Excel, SQL and Power BI
+HR Analytics Dashboard using Excel and Power BI
