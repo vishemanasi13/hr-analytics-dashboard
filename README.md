@@ -63,9 +63,9 @@ This project analyzes employee attrition and workforce trends using Microsoft Po
 ## 📁 Project Files
 
 - HR_Analytics.pbix
-- HR_Analytics_Dashboard.png
+- hr-analytics-dashboard.png
 - HR_Employee_Attrition.csv
-
+  
 ---
 
 ## 🚀 Skills Demonstrated
