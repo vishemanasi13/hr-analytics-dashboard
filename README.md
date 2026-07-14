@@ -4,6 +4,12 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 
 ---
 
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](images/hr-dashboard.png)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes employee attrition and workforce trends using Microsoft Power BI. The dataset was imported from a CSV file, cleaned and transformed using Power Query, and visualized through an interactive dashboard to identify patterns across departments, age groups, salary slabs, education, and job roles.
