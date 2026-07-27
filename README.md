@@ -34,7 +34,7 @@ This project analyzes employee attrition and workforce trends using Microsoft Po
 
 **HR Analytics Dataset (CSV)**
 
-The dataset was imported from a CSV file and cleaned using Power Query before building the dashboard.
+The dataset was imported from a CSV file, cleaned and transformed using Power Query, and then used to build the interactive dashboard.
 
 ---
 
