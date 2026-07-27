@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard
+# 📊 HR Attrition Analytics Dashboard
 
 An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze employee attrition and workforce trends.
 
@@ -7,6 +7,12 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 ## 📸 Dashboard Preview
 
 ![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+
+---
+
+## 🎯 Business Objective
+
+To analyze employee attrition trends and help HR teams identify the key factors influencing employee turnover through interactive dashboards and data-driven insights.
 
 ---
 
@@ -26,8 +32,9 @@ This project analyzes employee attrition and workforce trends using Microsoft Po
 
 ## 📂 Dataset
 
-- HR Analytics Dataset (CSV)
-- The dataset was imported from a CSV file and cleaned using Power Query in Power BI before building the dashboard.
+**HR Analytics Dataset (CSV)**
+
+The dataset was imported from a CSV file and cleaned using Power Query before building the dashboard.
 
 ---
 
@@ -62,10 +69,10 @@ This project analyzes employee attrition and workforce trends using Microsoft Po
 
 ## 📁 Project Files
 
-- HR_Analytics_Dashboard.pbix
-- HR_Analytics_Dashboard.png
-- HR_Analytics.csv
-  
+- 📊 HR_Analytics_Dashboard.pbix
+- 🖼️ HR_Analytics_Dashboard.png
+- 📄 HR_Analytics.csv
+
 ---
 
 ## 🚀 Skills Demonstrated
@@ -80,4 +87,6 @@ This project analyzes employee attrition and workforce trends using Microsoft Po
 
 ---
 
-⭐ Thank you for visiting this project!
+⭐ Thank you for visiting this project! If you found it helpful, feel free to explore my other repositories.
+
+
